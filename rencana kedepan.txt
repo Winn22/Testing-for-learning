@@ -1,0 +1,5 @@
+RENCANA KEDEPANNYA
+1. belajar cara merge
+2. HTML
+3. CSS
+4. JavaScript
