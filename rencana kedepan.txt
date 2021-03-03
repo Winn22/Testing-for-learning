@@ -4,4 +4,4 @@ RENCANA KEDEPANNYA
 3. CSS
 4. JavaScript
 5. IOT (Internet Of Thing)
-
+6. Server
