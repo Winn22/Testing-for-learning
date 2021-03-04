@@ -1,6 +1,7 @@
 RENCANA KEDEPANNYA
 1. belajar cara merge
 2. HTML
+  - Dasar
 3. CSS
 4. JavaScript
 5. IOT (Internet Of Thing)
